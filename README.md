@@ -54,3 +54,7 @@ All outputs (metrics, predictions, error coding, statistics and figures) are sav
 ## Ethics
 
 Only public data were used. No personal data of faculty members were processed. The mentor profiles in notebook 06 are illustrative and built from course texts.
+
+## License
+
+The code is released under the MIT License, see the LICENSE file. The data in manual_records.csv are derived from the UniSkill dataset by N. Musazade, J. Mezei and M. Zhang and remain under the Apache License 2.0.
