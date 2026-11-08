@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----------------------------------------------------------------------------
-Third-party data
-
-manual_records.csv is derived from the UniSkill dataset by N. Musazade,
-J. Mezei and M. Zhang (https://huggingface.co/datasets/nurlanm/UniSkill_dataset),
-which is licensed under the Apache License 2.0
-(https://www.apache.org/licenses/LICENSE-2.0). That license, not the MIT
-License above, applies to the data.
