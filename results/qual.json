@@ -1,0 +1,94 @@
+{
+  "counts": {
+    "FN: paraphrase without shared terms": 28,
+    "FP: partial relevance (title or sentence only)": 23,
+    "FP: unrelated pair, low-signal score": 23,
+    "FN: abstract or generic competency": 10,
+    "FP: shared generic vocabulary": 6,
+    "FN: debatable label or noisy text": 5
+  },
+  "per_model": {
+    "LR": {
+      "FN: paraphrase without shared terms": 26,
+      "FN: abstract or generic competency": 10,
+      "FN: debatable label or noisy text": 5,
+      "FP: partial relevance (title or sentence only)": 13,
+      "FP: shared generic vocabulary": 4,
+      "FP: unrelated pair, low-signal score": 1
+    },
+    "RF": {
+      "FN: paraphrase without shared terms": 12,
+      "FN: abstract or generic competency": 5,
+      "FN: debatable label or noisy text": 3,
+      "FP: partial relevance (title or sentence only)": 19,
+      "FP: shared generic vocabulary": 6,
+      "FP: unrelated pair, low-signal score": 16
+    },
+    "GB": {
+      "FN: paraphrase without shared terms": 11,
+      "FN: abstract or generic competency": 5,
+      "FN: debatable label or noisy text": 2,
+      "FP: partial relevance (title or sentence only)": 22,
+      "FP: shared generic vocabulary": 6,
+      "FP: unrelated pair, low-signal score": 20
+    }
+  },
+  "H2": {
+    "LR": {
+      "n_FN": 41.0,
+      "n_TP": 43.0,
+      "median_FN": 0.0,
+      "median_TP": 0.0558834172997291,
+      "U": 87.0,
+      "p": 2.23655068615673e-13,
+      "r_rank_biserial": 0.9013045944412933,
+      "FN_zero_overlap": 0.6341463414634146,
+      "TP_zero_overlap": 0.046511627906976744
+    },
+    "RF": {
+      "n_FN": 20.0,
+      "n_TP": 64.0,
+      "median_FN": 0.0,
+      "median_TP": 0.039849647720402656,
+      "U": 189.5,
+      "p": 7.327200442106448e-07,
+      "r_rank_biserial": 0.70390625,
+      "FN_zero_overlap": 0.75,
+      "TP_zero_overlap": 0.203125
+    },
+    "GB": {
+      "n_FN": 18.0,
+      "n_TP": 66.0,
+      "median_FN": 0.0,
+      "median_TP": 0.03373606861678255,
+      "U": 260.5,
+      "p": 0.00010814956293442791,
+      "r_rank_biserial": 0.5614478114478114,
+      "FN_zero_overlap": 0.6111111111111112,
+      "TP_zero_overlap": 0.25757575757575757
+    }
+  },
+  "H3": {
+    "LR": {
+      "n_FP": 18.0,
+      "FP_partial": 0.7222222222222222,
+      "TN_partial": 0.2631578947368421,
+      "odds_ratio": 7.28,
+      "p": 0.00025162695238859444
+    },
+    "RF": {
+      "n_FP": 41.0,
+      "FP_partial": 0.4634146341463415,
+      "TN_partial": 0.26373626373626374,
+      "odds_ratio": 2.4109848484848486,
+      "p": 0.028351458577539627
+    },
+    "GB": {
+      "n_FP": 48.0,
+      "FP_partial": 0.4583333333333333,
+      "TN_partial": 0.25,
+      "odds_ratio": 2.5384615384615383,
+      "p": 0.020134877377657887
+    }
+  }
+}

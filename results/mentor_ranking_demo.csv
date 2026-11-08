@@ -1,0 +1,31 @@
+need,mentor,score,evidence_course,evidence_sentence,rank
+query languages,Mentor A (databases),0.5756173856654131,Advanced Course in Databases,"Different methods for estimating the cost of a query are also presented., as well as how to understand query plans.",1
+query languages,Mentor B (security),0.386678245142002,Privacy and Security for Software Systems,General understanding of requirements related to EU's General Data Protection Regulation.,4
+query languages,Mentor C (user experience),0.3839268827808614,Requirements Engineering,Requirements engineering through the lens of co-creation and innovation.,5
+query languages,Mentor D (business analytics),0.41244925664870746,Creating Domain Value with Data,Alignment of the technical environment with business strategies.,3
+query languages,Mentor E (telecommunications),0.42773638153838595,Antennas,Radiation of an antenna from the Maxwell's equations.,2
+cyber security,Mentor A (databases),0.4422531234530634,Data Modeling and Design,Choose a proper consistency model for application Choose a proper consistency model for application Explain the role of ,2
+cyber security,Mentor B (security),0.9868612852312382,Cybersecurity D,Cyber security concepts.,1
+cyber security,Mentor C (user experience),0.4068839399482477,User Experience Design and Evaluation,Examples of user experience evaluation methods.,3
+cyber security,Mentor D (business analytics),0.3932761070983313,Creating Domain Value with Data,Explain the role of analytics in both internal and external organizational processes.,4
+cyber security,Mentor E (telecommunications),0.36899383382161843,Telecommunication Engineering,Influence of single-tone carrier radiofrequency interference (RFI) in the case of analog modulations.,5
+assess users' interaction with ICT applications,Mentor A (databases),0.4899461227450037,Big Data Platforms D,"Common aspects like users, developers and providers interactions, reliability, performance and elasticity for big data p",3
+assess users' interaction with ICT applications,Mentor B (security),0.492693871566339,Privacy and Security for Software Systems,Give a broad understanding on data privacy and its technical engineering into ICT systems.,2
+assess users' interaction with ICT applications,Mentor C (user experience),0.36976179208141147,User Experience Design and Evaluation,User experience model as a framework for design.,5
+assess users' interaction with ICT applications,Mentor D (business analytics),0.6589982705921096,Creating Domain Value with Data,Alignment of the technical environment with business strategies.,1
+assess users' interaction with ICT applications,Mentor E (telecommunications),0.4335675147665491,Antennas,is familiar with the theories explaining the electromagnetic radiation of usual antenna types and antenna arrays.3.,4
+perform market research,Mentor A (databases),0.4918610386149527,Big Data Platforms D,"Both design, development and operations of big data platforms are covered.",1
+perform market research,Mentor B (security),0.3874766034290478,Privacy and Security for Software Systems,Give a broad understanding on data privacy and its technical engineering into ICT systems.,3
+perform market research,Mentor C (user experience),0.3679997853385319,User Experience Design and Evaluation,Core content Examples of user experience models and components.,5
+perform market research,Mentor D (business analytics),0.45757991734573245,Data-Driven Marketing,"Investigate the key players, developments, and strategic movements within the marketing industry from a data-driven pers",2
+perform market research,Mentor E (telecommunications),0.3748339516555546,Advanced Networking D,Approaches to end-to-end protocol design and analysis.,4
+ICT communications protocols,Mentor A (databases),0.42212090553076353,Data Modeling and Design,• Establish the connection between databases and the Internet with respect to the use of extensible Markup Language [XML,3
+ICT communications protocols,Mentor B (security),0.44907241355328387,Privacy and Security for Software Systems,Give a broad understanding on data privacy and its technical engineering into ICT systems.,2
+ICT communications protocols,Mentor C (user experience),0.3708145370496219,Requirements Engineering,Requirements engineering through the lens of co-creation and innovation.,5
+ICT communications protocols,Mentor D (business analytics),0.3979659362359188,Creating Domain Value with Data,Alignment of the technical environment with business strategies.,4
+ICT communications protocols,Mentor E (telecommunications),0.5298721462354037,Advanced Networking D,"Practical examples of commonly used network architectures, protocols and algorithms in the Internet.",1
+track key performance indicators,Mentor A (databases),0.6026845928609781,Advanced Course in Databases,Analyze the performance of relational database queries by investigating execution plans.,1
+track key performance indicators,Mentor B (security),0.3583476239988783,Privacy and Security for Software Systems,Threats to privacy and software security.,4
+track key performance indicators,Mentor C (user experience),0.3536269912797402,Requirements Engineering,Requirements engineering through the lens of co-creation and innovation.,5
+track key performance indicators,Mentor D (business analytics),0.5752460662814414,Data-Driven Marketing,"Investigate the key players, developments, and strategic movements within the marketing industry from a data-driven pers",2
+track key performance indicators,Mentor E (telecommunications),0.36315979230682943,Telecommunication Engineering,Influence of single-tone carrier radiofrequency interference (RFI) in the case of analog modulations.,3
